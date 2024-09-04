@@ -26,7 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
-# 📊GitHub Stats :
+
+###
+
+📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=MannuFeliix&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MannuFeliix&theme=midnight-purple&hide_border=false)<br/>
