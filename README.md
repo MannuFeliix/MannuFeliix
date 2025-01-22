@@ -1,3 +1,6 @@
+
+<img align="right" height="200" src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif"  />
+
 # 💫About Me :
 
 - 🌱 I’m currently learning **React, Vue, Sass**
